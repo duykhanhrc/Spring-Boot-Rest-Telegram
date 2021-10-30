@@ -43,8 +43,10 @@ Check this API:
 
     POST /api/v1/telegramBotSendtext
 
-Refer code in: src\main\java\com\staxrt\tutorial\controller\TelegramController.java
+Refer code in: 
+
+![TelegramController](src/main/java/com/staxrt/tutorial/controller/TelegramController.java)
 
 Here is video for proof
 
-![POC](ss\springbotmessage.gif)
+![POC](ss/springbotmessage.gif)
