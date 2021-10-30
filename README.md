@@ -45,7 +45,7 @@ Check this API:
 
 Refer code in: 
 
-![TelegramController](src/main/java/com/staxrt/tutorial/controller/TelegramController.java)
+[TelegramController](src/main/java/com/staxrt/tutorial/controller/TelegramController.java)
 
 Here is video for proof
 
